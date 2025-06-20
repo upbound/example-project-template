@@ -1,8 +1,9 @@
 # example-project-template
 
 A template for creating Upbound project examples which can be used with `up
-project init`. See [https://github.com/upbound/example-project-aws] for an
-example of an example.
+project init`. See [upbound/example-project-aws] for an example of an example.
+
+[upbound/example-project-aws]: https://github.com/upbound/example-project-aws
 
 To get started:
 
