@@ -1,4 +1,4 @@
-# example-project-template
+# project-example-template
 
 A template for creating Upbound project examples which can be used with `up
 project init`. See [upbound/example-project-aws] for an example of an example.
