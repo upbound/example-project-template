@@ -1,5 +1,17 @@
 # {{.ProjectName}}
 
-This README will be cloned into every repository that uses the
-`example-project-template`. You should update it with information about what the
-project contains and how it is intended to be modified by the user.
+This project was initialized using the `{{.ExampleName}}` example (version
+{{.ExampleVersion}}). Update this README with information about what the
+project contains and an example of how to use it.
+
+## Installation
+
+TODO
+
+## Examples
+
+TODO
+
+## Testing
+
+TODO
